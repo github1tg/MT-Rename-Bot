@@ -1,4 +1,4 @@
-## MT Rename Bot
+## github 1 tg
 
 </p>
 <p align="center">
@@ -24,7 +24,7 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github1tg/MT-Rename-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github1tg)
 </pre>
 </p>
 </details>
