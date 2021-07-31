@@ -24,7 +24,7 @@ Tutorial Video👇
 **[Watch Deploying Tutorial...](https://youtu.be/wCB2zbwEguA)**
 
 Deploy To Hereku👇
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github1tg)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/github1tg/TG Rename Bot.",)
 </pre>
 </p>
 </details>
