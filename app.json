@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/github1tg.",
-  "repository": "https://github.com/github1tg.",
+  "website": "https://github.com/github1tg/TG Rename Bot.",
+  "repository": "https://github.com/github1tg/TG Rename Bot.",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
